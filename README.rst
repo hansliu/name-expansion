@@ -1,7 +1,7 @@
-name-expansion
+Name expansion
 ==============
 
-Name expansion is tool to expand string between '[]' and '{}'
+Name expansion is python module to expand string between '[]' and '{}'
 
 Example:
 
