@@ -20,3 +20,11 @@ Use case, ::
   >>> host_list
   ['tw1.host3.com', 'hk1.host3.com', 'tw1.host5.com', 'hk1.host5.com',
   'tw2.host3.com', 'hk2.host3.com', 'tw2.host5.com', 'hk2.host5.com']
+
+Changelog
+---------
+Version 0.0.1
+~~~~~~~~~~~~~
+1. initial
+2. update README.rst
+3. add LICENSE
