@@ -4,4 +4,4 @@
 __version__ = '0.0.1'
 __all__ = ["name_expansion"]
 
-from name_expansion import NameExpansionCore
+from name_expansion import NameExpansion
