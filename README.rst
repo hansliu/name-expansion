@@ -1,7 +1,7 @@
-Name expansion
+Name Expansion
 ==============
 
-Name expansion is python module to expand string between '[]' and '{}'
+Name Expansion is python module to expand string between '[]' and '{}'
 
 Example:
 
@@ -11,8 +11,8 @@ Example:
 
 Use case, ::
 
-  >>> from name_expansion import NameExpansionCore
-  >>> ne = NameExpansionCore()
+  >>> from name_expansion import NameExpansion
+  >>> ne = NameExpansion()
   >>> host = '[tw,hk][1-2].host[3,5].com'
   >>> host_list = list([host])
   >>> for match in ne.parse(host):
