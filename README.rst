@@ -1,3 +1,6 @@
+.. image:: https://travis-ci.org/hansliu/name-expansion.svg?branch=master
+    :target: https://travis-ci.org/hansliu/name-expansion
+
 Name Expansion
 ==============
 
@@ -23,8 +26,12 @@ Use case, ::
 
 Changelog
 ---------
-Version 0.0.1
-~~~~~~~~~~~~~
-1. initial
-2. update README.rst
-3. add LICENSE
+Version 0.2
+
+- add travis-ci, add travis-ci badge
+
+Version 0.1
+
+- initial
+- update README.rst
+- add LICENSE
